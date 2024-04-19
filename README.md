@@ -6,17 +6,26 @@
 
 Este é um script simples em Python para realizar o procedimento de port knocking em um servidor remoto. O port knocking é uma técnica de segurança usada para aumentar a segurança de um servidor ao ocultar os serviços disponíveis até que uma sequência específica de conexões seja feita.
 
+<div align="center">
+
 # Funcionalidades
+</div>
 
 - Suporte para TCP e UDP.
 - Personalização da sequência de port knocking através de argumentos de linha de comando.
 - Implementação básica de port knocking usando sockets em Python.
 
+<div align="center">
+
 # Requisitos
+</div>
 
 - Python 3.x
 
+<div align="center">
+
 # Uso
+</div>
 
 **Uso padrão:**
 
